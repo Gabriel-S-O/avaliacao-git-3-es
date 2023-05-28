@@ -1,11 +1,14 @@
-# Prova de Engenharia de Software - Turma do 3º ano
+# Avaliação de Construção de Software com Git - 29/05
 
 ## Composição da avaliação
 
 - 1 Questão aberta sobre argumentos de comandos git (10 pontos)
+- 1 Questão aberta sobre o comando git checkout (15 pontos)
 - 2 Questões abertas sobre diferenças entre comandos git (30 pontos)
 - 2 Questões práticas (15 pontos)
 - 2 Questões abertas sobre comandos git intermediários (40 pontos)
+
+**Total: 110 pontos**
 
 ## Critérios avaliativos
 
