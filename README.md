@@ -23,7 +23,7 @@ As respostas devem ser submetidas em um repositório (criado na questão 1), em 
 
 ## Questões
 
-1. Criar um repositório **PRIVADO** no GitHub chamado "avaliacao-git-29-05" e adicionar os seguintes e-mails como colaboradores (gabrielsilvaol10@gmail.com) e (leonardosarto1@hotmail.com). Este repositório deve ser clonado, pois será necessário para subir as respostas da avaliação. (5 pontos)
+1. Criar um repositório **PRIVADO** no GitHub chamado "avaliacao-git-29-05" e adicionar os seguintes e-mails como colaboradores (gabrielsilvaol10@gmail.com), (leonardosarto1@hotmail.com) e (marcelo.terenciani@ifpr.edu.br). Este repositório deve ser clonado, pois será necessário para subir as respostas da avaliação. (5 pontos)
 
 2. Quando você estiver incerto sobre como usar um comando Git específico, qual argumento você utiliza para obter orientações adicionais? (10 pontos)
 
